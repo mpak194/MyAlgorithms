@@ -4,10 +4,10 @@
 
 Имеется граф:
 
-![Screenshot_1](C:\Users\Mark\Desktop\Screenshot_1.png)
+![Screenshot_1](Screenshots\Screenshot_1.png)
 
 Вес каждой связи между вершинами обозначает время пути. Необходимо воспользоваться алгоритмом Дейкстры и найти самый оптимальный путь.
 
 В код из книги был добавлен вывод пути на консоль:
 
-![Screenshot_2](C:\Users\Mark\Desktop\Screenshot_2.png)
+![Screenshot_2](Screenshots\Screenshot_2.png)
