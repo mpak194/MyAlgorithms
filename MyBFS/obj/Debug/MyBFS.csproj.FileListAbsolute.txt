@@ -1,0 +1,7 @@
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyBFS\bin\Debug\MyBFS.exe.config
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyBFS\bin\Debug\MyBFS.exe
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyBFS\bin\Debug\MyBFS.pdb
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyBFS\obj\Debug\MyBFS.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyBFS\obj\Debug\MyBFS.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyBFS\obj\Debug\MyBFS.exe
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyBFS\obj\Debug\MyBFS.pdb

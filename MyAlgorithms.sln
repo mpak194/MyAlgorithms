@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBFS", "MyBFS\MyBFS.csproj", "{58FB2B08-5B5E-4627-B1F9-0C28AA51C575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDijkstra", "MyDijkstra\MyDijkstra.csproj", "{83E7B88A-BAFD-4692-804A-6F1AD44463DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FB2B08-5B5E-4627-B1F9-0C28AA51C575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FB2B08-5B5E-4627-B1F9-0C28AA51C575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FB2B08-5B5E-4627-B1F9-0C28AA51C575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FB2B08-5B5E-4627-B1F9-0C28AA51C575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E7B88A-BAFD-4692-804A-6F1AD44463DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E7B88A-BAFD-4692-804A-6F1AD44463DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E7B88A-BAFD-4692-804A-6F1AD44463DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E7B88A-BAFD-4692-804A-6F1AD44463DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7614D2A7-02D7-4773-811E-949572447CEA}
+	EndGlobalSection
+EndGlobal

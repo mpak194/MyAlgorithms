@@ -1,0 +1,7 @@
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyDijkstra\bin\Debug\MyDijkstra.exe.config
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyDijkstra\bin\Debug\MyDijkstra.exe
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyDijkstra\bin\Debug\MyDijkstra.pdb
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyDijkstra\obj\Debug\MyDijkstra.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyDijkstra\obj\Debug\MyDijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyDijkstra\obj\Debug\MyDijkstra.exe
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MyDijkstra\obj\Debug\MyDijkstra.pdb
