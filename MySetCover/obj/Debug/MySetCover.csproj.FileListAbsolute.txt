@@ -1,0 +1,7 @@
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MySetCover\bin\Debug\MySetCover.exe.config
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MySetCover\bin\Debug\MySetCover.exe
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MySetCover\bin\Debug\MySetCover.pdb
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MySetCover\obj\Debug\MySetCover.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MySetCover\obj\Debug\MySetCover.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MySetCover\obj\Debug\MySetCover.exe
+C:\Users\Mark\Desktop\MyAlgorithms\MyAlgorithms\MySetCover\obj\Debug\MySetCover.pdb

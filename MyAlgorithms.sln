@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBFS", "MyBFS\MyBFS.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDijkstra", "MyDijkstra\MyDijkstra.csproj", "{83E7B88A-BAFD-4692-804A-6F1AD44463DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySetCover", "MySetCover\MySetCover.csproj", "{67EB092D-B642-443F-953E-BEE5147512E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{83E7B88A-BAFD-4692-804A-6F1AD44463DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83E7B88A-BAFD-4692-804A-6F1AD44463DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83E7B88A-BAFD-4692-804A-6F1AD44463DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EB092D-B642-443F-953E-BEE5147512E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EB092D-B642-443F-953E-BEE5147512E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EB092D-B642-443F-953E-BEE5147512E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EB092D-B642-443F-953E-BEE5147512E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
